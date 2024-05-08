@@ -36,10 +36,3 @@ The aim of the project is to study temperature in California and create an inter
 
 1. Using kriging for interpolation is better since inverse distance weighting assumes no error (mathematical function) and the trend surface model assumes no autocorrelation.
 2. Notably, we need more stations in the southwest and northeast of California since they have the highest prediction error [(36.96, 47.61) & (47.61, 58.26)] based on ordinary kriging, with the best predictions in the middle of California.
-
-weighting assume no error (mathematical function) and the trend
-surface model assume no autocorrelation.
-2. Notably, we need more stations in southwest and northeast of
-California since they have the highest prediction error [(36.96,
-47.61) & (47.61, 58.26)] based on ordinary kriging and the best
-prediction in the middle of California.
